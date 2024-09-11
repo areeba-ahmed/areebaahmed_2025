@@ -15,16 +15,6 @@ hide: true
     <h2>Sprint 1 Check</h2>
     <button style="display: block; margin-bottom: 10px;" onclick="window.location.href='{{site.baserul}}/areebaahmed_2025/sprint/'">Sprint 1</button>
   </div>
-
-  
-  <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
-    <h2>Quick Links</h2>
-    <ul>
-      <li><a href="_notebooks/Foundation/planning_document.ipynb">Planning Document</a> - A document outlining attempts and accomplishments.</li>
-      <li><a href="_notebooks/Foundation/javascript_example.ipynb">JavaScript Example</a> - A notebook demonstrating a JavaScript cell.</li>
-      <li><a href="_notebooks/Foundation/about_page.ipynb">About Me</a> - Learn more about me and my project.</li>
-    </ul>
-  </div>
   
   <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
     <h2>CSSE Projects</h2>
