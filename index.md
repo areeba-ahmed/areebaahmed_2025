@@ -19,13 +19,13 @@ hide: true
   <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
     <h2>CSSE Projects</h2>
     <p>These are some projects I worked on last year during CSSE.</p>
-    <button style="display: block; margin-bottom: 10px;" onclick="window.location.href='{{site.baseurl}}/areebaahmed_2025/csse/'">View CSSE Projects</button>
+    <button style="display: block; margin-bottom: 10px;" onclick="window.location.href='{{site.baserul}}/areebaahmed_2025/csse/'">View CSSE Projects</button>
   </div>
   
   <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
     <h2>Snowboarding</h2>
     <p>Some more info about me and snowboarding:</p>
-    <button style="display: block; margin-bottom: 10px;" onclick="window.location.href='{{site.baseurl}}/areebaahmed_2025/snowboarding/'">View Snowboarding Info</button>
+    <button style="display: block; margin-bottom: 10px;" onclick="window.location.href='{{site.baserul}}/areebaahmed_2025/snowboarding/'">View Snowboarding Info</button>
     <img src="images/snowboard.png" alt="Snowboarding" style="width: 100%; max-width: 400px; margin-top: 10px;">
   </div>
   
