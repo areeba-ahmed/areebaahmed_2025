@@ -3,7 +3,9 @@ layout: page
 title: Tools
 permalink: /tools/
 ---
-## Tools
+
+<a href="https://github.com/areeba-ahmed/areebaahmed_2025/issues/3">8-27 Quiz</a>
+
 This is how I added a button to my homepage:
 ```
 <button style="display: block; margin-bottom: 10px;">Button</button>
