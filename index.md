@@ -10,6 +10,7 @@ hide: true
   <h1>Areeba Ahmed</h1>
   <p>Welcome to my homepage!</p>
 
+<button><a href="{{site.baserul}}/areebaahmed_2025/planning/">Planning Notebook</a></button>
 
   <div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
     <h2>Sprint 1 Check</h2>
@@ -38,5 +39,4 @@ hide: true
     </ul>
   </div>
 </div>
-
 
