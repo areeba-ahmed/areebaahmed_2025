@@ -5,7 +5,7 @@ github_username: areeba-ahmed
 github_repo: "areebaahmed_2025" 
 baseurl: "/areebaahmed_2025"
 future: true
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
