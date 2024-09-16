@@ -4,17 +4,17 @@ title: About Me
 permalink: /about/
 ---
 
-# Overview ★
+# Overview ˚ʚ♡ɞ˚
 My name is Areeba Ahmed and I am a sophomore at Del Norte High. I'm 15 years old and my birthday is March 4th, 2009. I took this class to hopefully improve my skills in coding by the end of the year, learn new things, and continue on with my journey in computer science.
 
-## Fun Facts ★
+## Fun Facts ˚ʚ♡ɞ˚
 * 🎾 I like to play tennis
 * 🌵 I was born in Texas
 * 💻 I took CSSE in 9th grade
 * 🏂 I like to snowboard
 * 🐱 I like cats
 
-## My Culture and Family ★
+## My Culture and Family ˚ʚ♡ɞ˚
 
 <img src=" {{site.baseurl}}/images/india.png" alt="My family is from India" width="300" height="200">
 My family is from India
